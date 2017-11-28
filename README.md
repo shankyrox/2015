@@ -1,6 +1,6 @@
 # 2015
 
-##Lectures
+## Lectures
 
 The Lecture slides up to Lecture 1 are in this repository. Just click on the Lectures Folder.
 
